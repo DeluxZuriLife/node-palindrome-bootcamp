@@ -1,4 +1,4 @@
-document.getElementbyID('submit').addeventListener('click', letsGetIt)
+document.getElementbyID('submit').addeventListener('click', function letsGetIt)
 
 function letsGetIt(){
     
